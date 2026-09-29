@@ -13,3 +13,5 @@ https://www.litres.ru/author/ouren-kid/
 
 Ref Table Studio is a tool for working with reference images while drawing: a sketching timer,
 sequential group viewing, viewing images in the "Ribbon" mode, and analyzing tone and color using curves.
+
+pureref-alternative, reference-images, art-tools, gesture-drawing, winforms, csharp
